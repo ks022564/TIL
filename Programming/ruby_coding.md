@@ -118,3 +118,8 @@ ruby
 name = "Alice"
 age = 30
 puts sprintf("%s is %d years old.", name, age)
+
+### n = a.shift:
+
+a.shift: 配列 a の先頭の要素を取り出し、その要素を n に代入します。shift メソッドは、配列から最初の要素を取り除く操作でもあります。
+例えば、a が [1, 2, 3, 4, 5] であれば、n には 1 が代入され、a は [2, 3, 4, 5] に変化します。
