@@ -140,3 +140,5 @@ RailwayをMySQLを使用するためだけに使用します。
 
 ## 2024-09-03
 #### break,contine,switch文
+
+## 2024-09-04
